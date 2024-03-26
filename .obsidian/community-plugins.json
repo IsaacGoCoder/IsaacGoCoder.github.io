@@ -5,5 +5,7 @@
   "terminal",
   "text-snippets-obsidian",
   "editing-toolbar",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-custom-frames",
+  "templater-obsidian"
 ]

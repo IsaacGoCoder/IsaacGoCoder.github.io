@@ -8,5 +8,6 @@
     "_data/"
   ],
   "newLinkFormat": "absolute",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "tabSize": 2
 }

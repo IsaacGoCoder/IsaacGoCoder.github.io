@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "08d8d6b2886bcc2e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6cef84d51044d310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/autolisp/오토리습배우기/2023-03-14-1.오토리습(Autolisp) 시작하기.md",
+                "file": "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,6 +58,17 @@
             }
           },
           {
+            "id": "fae7caf7f6f70004",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "7793c02d495538dc",
             "type": "leaf",
             "state": {
@@ -87,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 348.5
   },
   "right": {
     "id": "a6d9182e90a21268",
@@ -96,6 +89,7 @@
       {
         "id": "22245c184a828f09",
         "type": "tabs",
+        "dimension": 73.76893939393939,
         "children": [
           {
             "id": "d1c5471a02528fb2",
@@ -103,55 +97,69 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md"
               }
             }
           },
           {
-            "id": "3026babce9019243",
+            "id": "804dac87093d1ca8",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "custom-frames-google-tasks",
+              "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b6bd9a5c5ea9460d",
+        "type": "tabs",
+        "dimension": 26.23106060606061,
+        "children": [
           {
-            "id": "baaa4370c61d0427",
+            "id": "41a69f71db56a9f7",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "outgoing-link",
+              "type": "terminal:terminal",
               "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "fae7caf7f6f70004",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "terminal:terminal": {
+                  "cwd": "/Users/gohyeoncheol/Documents/Blog_github/",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 20,
+                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± \u001b[33;49m\u001b[0m jekyll \r\nserve\r\nzsh: command not found: jekyll\r\n\u001b[40m \u001b[31m✘\u001b[39m gohyeoncheol@gohy\r\n \u001b[31m✘\u001b[39m gohyeoncheol@gohyeoncheol-ui-Macmini -\u001b[1D\u001b[1X\u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ±✚ \u001b[33;49m\u001b[0m \r\n",
+                    "rows": 12
+                  }
+                }
+              },
+              "pinned": true
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,12 +169,32 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7cc9f96160743627",
+  "active": "804dac87093d1ca8",
   "lastOpenFiles": [
+    "_data/share~.yml",
+    "_site/tags/learning/index.html",
+    "_site/tags/learning",
+    "template/autolisp-오토리습배우기.md",
+    "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md",
     "_posts/autolisp/오토리습배우기/2023-03-14-1.오토리습(Autolisp) 시작하기.md",
+    "_posts/autolisp/오토리습배우기/2024-03-26-2. 리습으로 캐드명령어 사용 해 보기 (command).md",
+    "_site/posts/3.-어떠려나/index.html",
+    "_site/posts/3.-어떠려나",
+    "_site/template/autolisp-오토리습배우기.html",
+    "_site/template",
+    "_posts/autolisp/오토리습배우기/2024-03-26-undefined.md",
+    "_posts/autolisp/오토리습배우기/2024-03-26-.md",
+    "_posts/autolisp/오토리습배우기/2024-03-26.md",
+    "_posts/autolisp/오토리습배우기/2024-03-26-3. 제목.md",
+    "_posts/autolisp/오토리습배우기/Untitled.md",
+    "_posts/autolisp/오토리습배우기/무제 파일 1.md",
+    "_posts/autolisp/오토리습배우기/2024-.md",
+    "_posts/autolisp/오토리습배우기/2024-03-25-3.test.md",
+    "template",
     "README.md",
     "_site/assets/img/attachment/README-3.png",
     "_site/assets/img/attachment/Pasted image 20240326125257.png",
@@ -185,13 +213,6 @@
     "_posts/autolisp",
     "_posts/오토리습 배우기/2023-03-14-1.오토리습(Autolisp) 시작하기.md",
     "_posts/오토리습 배우기",
-    "_posts/오토리습",
-    "_site/assets/img/background",
-    "assets/img/background",
-    "_data/locales/en.yml",
-    "_data/locales/en_backup.yml",
-    "_data/contact~.yml",
-    "_site/assets/css/jekyll-theme-chirpy.css.map",
     "_posts/autolisp/2023-03-25-test.md",
     "autolisp/2023-03-25-test.md",
     "autolisp/2023-03-25-2. 리습으로 캐드명령어 사용 해 보기 (command).md",
