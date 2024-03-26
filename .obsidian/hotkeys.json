@@ -16,5 +16,13 @@
       ],
       "key": "A"
     }
+  ],
+  "editor:clear-formatting": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
   ]
 }
