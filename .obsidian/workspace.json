@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/autolisp/오토리습배우기/2024-03-27-1. 오토리습(Autolisp) 시작하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:common",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_tabs/about.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +145,7 @@
                   },
                   "serial": {
                     "columns": 20,
-                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± \u001b[33;49m\u001b[0m jekyll \r\nserve\r\nzsh: command not found: jekyll\r\n\u001b[40m \u001b[31m✘\u001b[39m gohyeoncheol@gohy\r\n \u001b[31m✘\u001b[39m gohyeoncheol@gohyeoncheol-ui-Macmini -\u001b[1D\u001b[1X\u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ±✚ \u001b[33;49m\u001b[0m \r\n",
+                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± \u001b[33;49m\u001b[0m jekyll \r\nserve\r\nzsh: command not found: jekyll\r\n\u001b[40m \u001b[31m✘\u001b[39m gohyeoncheol@gohy\r\n \u001b[31m✘\u001b[39m gohyeoncheol@gohyeoncheol-ui-Macmini -\u001b[1D\u001b[1X\u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ±✚ \u001b[33;49m\u001b[0m \r\ngit add",
                     "rows": 12
                   }
                 }
@@ -173,15 +171,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cc9f96160743627",
+  "active": "41a69f71db56a9f7",
   "lastOpenFiles": [
+    "_posts/autolisp/오토리습배우기/2024-03-27-1. 오토리습(Autolisp) 시작하기.md",
+    "_site/posts/1.-오토리습(Autolisp)-시작하기/index.html",
+    "_site/posts/1.-오토리습(Autolisp)-시작하기",
     "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md",
+    "_tabs/about.md",
+    "_tabs/archives.md",
+    "_posts/autolisp/오토리습배우기/2024-03-26-2. 리습으로 캐드명령어 사용 해 보기 (command).md",
     "_data/share~.yml",
     "_site/tags/learning/index.html",
     "_site/tags/learning",
     "template/autolisp-오토리습배우기.md",
-    "_posts/autolisp/오토리습배우기/2023-03-14-1.오토리습(Autolisp) 시작하기.md",
-    "_posts/autolisp/오토리습배우기/2024-03-26-2. 리습으로 캐드명령어 사용 해 보기 (command).md",
     "_site/posts/3.-어떠려나/index.html",
     "_site/posts/3.-어떠려나",
     "_site/template/autolisp-오토리습배우기.html",
@@ -209,8 +211,6 @@
     "_posts/오토리습 배우기/2023-03-25-2. 리습으로 캐드명령어 사용 해 보기 (command).md",
     "_posts/autolisp_learning/2023-03-25-2. 리습으로 캐드명령어 사용 해 보기 (command).md",
     "_posts/autolisp_learning/2023-03-14-1.오토리습(Autolisp) 시작하기.md",
-    "_posts/autolisp_learning",
-    "_posts/autolisp",
     "_posts/오토리습 배우기/2023-03-14-1.오토리습(Autolisp) 시작하기.md",
     "_posts/autolisp/2023-03-25-test.md",
     "autolisp/2023-03-25-test.md",
