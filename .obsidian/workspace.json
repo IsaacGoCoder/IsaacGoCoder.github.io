@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md",
+                "file": "_tabs/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md"
+                "file": "_tabs/about.md"
               }
             }
           },
@@ -173,13 +173,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "804dac87093d1ca8",
+  "active": "7cc9f96160743627",
   "lastOpenFiles": [
+    "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md",
     "_data/share~.yml",
     "_site/tags/learning/index.html",
     "_site/tags/learning",
     "template/autolisp-오토리습배우기.md",
-    "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md",
     "_posts/autolisp/오토리습배우기/2023-03-14-1.오토리습(Autolisp) 시작하기.md",
     "_posts/autolisp/오토리습배우기/2024-03-26-2. 리습으로 캐드명령어 사용 해 보기 (command).md",
     "_site/posts/3.-어떠려나/index.html",
@@ -212,7 +212,6 @@
     "_posts/autolisp_learning",
     "_posts/autolisp",
     "_posts/오토리습 배우기/2023-03-14-1.오토리습(Autolisp) 시작하기.md",
-    "_posts/오토리습 배우기",
     "_posts/autolisp/2023-03-25-test.md",
     "autolisp/2023-03-25-test.md",
     "autolisp/2023-03-25-2. 리습으로 캐드명령어 사용 해 보기 (command).md",
