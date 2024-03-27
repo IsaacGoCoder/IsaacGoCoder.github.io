@@ -309,7 +309,7 @@ sup {
 /* --- post --- */
 
 .preview-img {
-  aspect-ratio: 40 / 21;
+  // aspect-ratio: 40 / 21;
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -834,9 +834,10 @@ $btn-mb: 0.5rem;
   }
 
   .sidebar-bottom {
-    padding-left: 2rem;
-    padding-right: 1rem;
+    // padding-left: 2rem;
+    // padding-right: 1rem;
     margin-bottom: 1.5rem;
+    justify-content: center;
 
     $btn-size: 1.75rem;
 
