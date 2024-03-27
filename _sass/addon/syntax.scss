@@ -32,7 +32,8 @@ html {
 /* -- code snippets -- */
 
 %code-snippet-bg {
-  background-color: var(--highlight-bg-color);
+  // background-color: var(--highlight-bg-color);
+  background-color: rgb(33 40 48);
 }
 
 %code-snippet-padding {
@@ -99,7 +100,9 @@ code {
   -webkit-hyphens: none;
   -ms-hyphens: none;
   hyphens: none;
-  color: var(--code-color);
+  // color: var(--code-color);
+  color: rgb(241 215 15);
+
 
   &.highlighter-rouge {
     // font-size: $code-font-size;
@@ -280,11 +283,14 @@ div {
         width: $code-dot-size;
         height: $code-dot-size;
         border-radius: 50%;
-        background-color: var(--code-header-muted-color);
+        // background-color: var(--code-header-muted-color);
+        background-color: rgb(248 95 87);
         box-shadow: ($code-dot-size + $code-dot-gap) 0 0
-            var(--code-header-muted-color),
+            // var(--code-header-muted-color),
+            rgb(251 176 63),
           ($code-dot-size + $code-dot-gap) * 2 0 0
-            var(--code-header-muted-color);
+            // var(--code-header-muted-color);
+            rgb(51 191 69)
       }
 
       span {

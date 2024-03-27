@@ -17,12 +17,31 @@
       "key": "A"
     }
   ],
-  "editor:clear-formatting": [
+  "editing-toolbar:format-eraser": [
     {
       "modifiers": [
-        "Ctrl"
+        "Ctrl",
+        "Shift"
       ],
       "key": "D"
+    }
+  ],
+  "editing-toolbar:change-font-color": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "editing-toolbar:change-background-color": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }
