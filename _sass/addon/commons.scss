@@ -317,14 +317,14 @@ sup {
   @extend %rounded;
 
   &:not(.no-bg) {
-    background: var(--img-bg);
+    // background: var(--img-bg);
   }
 
   img {
     height: 100%;
     -o-object-fit: cover;
-    object-fit: cover;
-
+    // object-fit: cover;
+    object-fit: contain;
     @extend %rounded;
 
     @at-root #post-list & {

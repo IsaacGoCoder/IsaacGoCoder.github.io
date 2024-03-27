@@ -2,6 +2,11 @@
  * The syntax light mode code snippet colors.
  */
 
+// 탭사이즈 추가함
+pre {
+  tab-size: 2;
+}
+
 @mixin light-syntax {
   /* --- custom light colors --- */
   --language-border-color: #ececec;
@@ -44,7 +49,8 @@
   .highlight .kr,
   .highlight .kt,
   .highlight .kv {
-    color: #cf222e;
+    // color: #cf222e;
+    color: #ff3d4a;
   }
 
   .highlight .gr {
@@ -103,7 +109,8 @@
   .highlight .il,
   .highlight .mo,
   .highlight .mx {
-    color: #0550ae;
+    // color: #0550ae;
+    color: #f79dff;
   }
 
   .highlight .sb {
