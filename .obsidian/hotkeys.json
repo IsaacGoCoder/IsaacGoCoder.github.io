@@ -43,5 +43,15 @@
       ],
       "key": "B"
     }
+  ],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
