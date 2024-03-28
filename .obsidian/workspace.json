@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/autolisp/오토리습배우기/2024-03-28-10. 문자열들을 하나의 문자열로 합치기 - (strcat).md",
+                "file": "_posts/코딩/오토리습/0. 포스팅.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/autolisp/오토리습배우기/0. 포스팅.md",
+                "file": "_posts/코딩/오토리습/0. 포스팅.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
                   },
                   "serial": {
                     "columns": 25,
-                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git acp \"Post : 코딩 - \r\n오토리습 10",
+                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git acp \"Post : 코딩 - \r\n오토리습 10\"\r\n[main 8988125] Post : 코딩 - 오토리습 10\r\n 9 files changed, 100 insertions(+), 31 deletions(-)\r\n delete mode 100644 \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/10. \\353\\254\\270\\354\\236\\220\\354\\227\\264\\353\\223\\244\\354\\235\\204 \\355\\225\\230\\353\\202\\230\\354\\235\\230 \\353\\254\\270\\354\\236\\220\\354\\227\\264\\353\\241\\234 \\355\\225\\251\\354\\271\\230\\352\\270\\260 - (strcat).md\"\r\n create mode 100644 \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-28-10. \\353\\254\\270\\354\\236\\220\\354\\227\\264\\353\\223\\244\\354\\235\\204 \\355\\225\\230\\353\\202\\230\\354\\235\\230 \\353\\254\\270\\354\\236\\220\\354\\227\\264\\353\\241\\234 \\355\\225\\251\\354\\271\\230\\352\\270\\260 - (strcat).md\"\r\n create mode 100644 assets/img/attachment/2024-03-28-10.gif\r\nEnumerating objects: 31, done.\r\nCounting objects:   3% (1Counting objects:   6% (2Counting objects:   9% (3Counting objects:  12% (4Counting objects:  16% (5Counting objects:  19% (6Counting objects:  22% (7Counting objects:  25% (8Counting objects:  29% (9Counting objects:  32% (1Counting objects:  35% (1Counting objects:  38% (1Counting objects:  41% (1Counting objects:  45% (1Counting objects:  48% (1Counting objects:  51% (1Counting objects:  54% (1Counting objects:  58% (1Counting objects:  61% (1Counting objects:  64% (2Counting objects:  67% (2Counting objects:  70% (2Counting objects:  74% (2Counting objects:  77% (2Counting objects:  80% (2Counting objects:  83% (2Counting objects:  87% (2Counting objects:  90% (2Counting objects:  93% (2Counting objects:  96% (3Counting objects: 100% (3Counting objects: 100% (31/31), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   6%Compressing objects:  12%Compressing objects:  18%Compressing objects:  25%Compressing objects:  31%Compressing objects:  37%Compressing objects:  43%Compressing objects:  50%Compressing objects:  56%Compressing objects:  62%Compressing objects:  68%Compressing objects:  75%Compressing objects:  81%Compressing objects:  87%Compressing objects:  93%Compressing objects: 100%Compressing objects: 100% (16/16), done.\r\nWriting objects:   5% (1/Writing objects:  11% (2/Writing objects:  17% (3/Writing objects:  23% (4/Writing objects:  29% (5/Writing objects:  35% (6/Writing objects:  41% (7/Writing objects:  47% (8/Writing objects:  52% (9/Writing objects:  58% (10Writing objects:  64% (11Writing objects:  70% (12Writing objects:  76% (13Writing objects:  82% (14Writing objects:  88% (15Writing objects:  94% (16Writing objects: 100% (17Writing objects: 100% (17/17), 13.72 KiB | 13.72 MiB/s, done.\r\nTotal 17 (delta 12), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (12/12), completed with 12 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n   2c741fe..8988125  main -> main\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git log\u001b[16X\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git acp \"Post : 코딩-오\r\n토리습11\"\r\n[main 2c6b9f1] Post : 코딩-오토리습11\r\n 16 files changed, 95 insertions(+), 28 deletions(-)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/0. \\355\\217\\254\\354\\212\\244\\355\\214\\205.md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/0. \\355\\217\\254\\354\\212\\244\\355\\214\\205.md\" (100%)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-27-1. \\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265(Autolisp) \\354\\213\\234\\354\\236\\221\\355\\225\\230\\352\\270\\260.md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-27-1. \\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265(Autolisp) \\354\\213\\234\\354\\236\\221\\355\\225\\230\\352\\270\\260.md\" (100%)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-27-2. \\353\\246\\254\\354\\212\\265\\354\\234\\274\\353\\241\\234 \\354\\272\\220\\353\\223\\234\\353\\252\\205\\353\\240\\271\\354\\226\\264 \\354\\202\\254\\354\\232\\251 \\355\\225\\264 \\353\\263\\264\\352\\270\\260 - (command).md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-27-2. \\353\\246\\254\\354\\212\\265\\354\\234\\274\\353\\241\\234 \\354\\272\\220\\353\\223\\234\\353\\252\\205\\353\\240\\271\\354\\226\\264 \\354\\202\\254\\354\\232\\251 \\355\\225\\264 \\353\\263\\264\\352\\270\\260 - (command).md\" (100%)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-27-3. \\352\\260\\222\\354\\235\\204 \\353\\263\\200\\354\\210\\230\\354\\227\\220 \\354\\240\\200\\354\\236\\245\\355\\225\\230\\352\\270\\260 (setq).md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-27-3. \\352\\260\\222\\354\\235\\204 \\353\\263\\200\\354\\210\\230\\354\\227\\220 \\354\\240\\200\\354\\236\\245\\355\\225\\230\\352\\270\\260 (setq).md\" (100%)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-27-4. \\354\\242\\214\\355\\221\\234 \\354\\236\\205\\353\\240\\245\\353\\260\\233\\352\\270\\260 - (getpoint).md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-27-4. \\354\\242\\214\\355\\221\\234 \\354\\236\\205\\353\\240\\245\\353\\260\\233\\352\\270\\260 - (getpoint).md\" (100%)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-28-10. \\353\\254\\270\\354\\236\\220\\354\\227\\264\\353\\223\\244\\354\\235\\204 \\355\\225\\230\\353\\202\\230\\354\\235\\230 \\353\\254\\270\\354\\236\\220\\354\\227\\264\\353\\241\\234 \\355\\225\\251\\354\\271\\230\\352\\270\\260 - (strcat).md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-28-10. \\353\\254\\270\\354\\236\\220\\354\\227\\264\\353\\223\\244\\354\\235\\204 \\355\\225\\230\\353\\202\\230\\354\\235\\230 \\353\\254\\270\\354\\236\\220\\354\\227\\264\\353\\241\\234 \\355\\225\\251\\354\\271\\230\\352\\270\\260 - (strcat).md\" (100%)\r\n create mode 100644 \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-28-11. \\354\\210\\253\\354\\236\\220\\353\\245\\274 \\353\\254\\270\\354\\236\\220\\354\\227\\264\\353\\241\\234 \\353\\263\\200\\352\\262\\275\\355\\225\\230\\352\\270\\260 - (itoa), (rtos).md\"\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-28-5. \\354\\242\\214\\355\\221\\234 \\354\\236\\205\\353\\240\\245\\353\\260\\233\\352\\270\\260 2 - (getcorner).md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-28-5. \\354\\242\\214\\355\\221\\234 \\354\\236\\205\\353\\240\\245\\353\\260\\233\\352\\270\\260 2 - (getcorner).md\" (100%)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-28-6. \\354\\225\\214\\353\\246\\274\\354\\260\\275 \\353\\235\\204\\354\\232\\260\\352\\270\\260 - (alert).md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-28-6. \\354\\225\\214\\353\\246\\274\\354\\260\\275 \\353\\235\\204\\354\\232\\260\\352\\270\\260 - (alert).md\" (100%)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-28-7. \\353\\252\\205\\353\\240\\271\\354\\226\\264\\354\\260\\275\\354\\227\\220 \\353\\251\\224\\354\\213\\234\\354\\247\\200 \\354\\266\\234\\353\\240\\245\\355\\225\\230\\352\\270\\260 - (princ).md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-28-7. \\353\\252\\205\\353\\240\\271\\354\\226\\264\\354\\260\\275\\354\\227\\220 \\353\\251\\224\\354\\213\\234\\354\\247\\200 \\354\\266\\234\\353\\240\\245\\355\\225\\230\\352\\270\\260 - (princ).md\" (100%)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-28-8.  \\354\\210\\253\\354\\236\\220 \\354\\236\\205\\353\\240\\245\\353\\260\\233\\352\\270\\260 - (getint), (getreal).md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-28-8.  \\354\\210\\253\\354\\236\\220 \\354\\236\\205\\353\\240\\245\\353\\260\\233\\352\\270\\260 - (getint), (getreal).md\" (100%)\r\n rename \"_posts/autolisp/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260/2024-03-28-9. \\353\\254\\270\\354\\236\\220\\354\\227\\264 \\354\\236\\205\\353\\240\\245\\353\\260\\233\\352\\270\\260 - (getstring).md\" => \"_posts/\\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-03-28-9. \\353\\254\\270\\354\\236\\220\\354\\227\\264 \\354\\236\\205\\353\\240\\245\\353\\260\\233\\352\\270\\260 - (getstring).md\" (100%)\r\n create mode 100644 assets/img/attachment/240328-11.gif\r\n rename \"template/autolisp-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260.md\" => \"assets/template/autolisp-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260.md\" (100%)\r\nEnumerating objects: 32, done.\r\nCounting objects:   3% (1Counting objects:   6% (2Counting objects:   9% (3Counting objects:  12% (4Counting objects:  15% (5Counting objects:  18% (6Counting objects:  21% (7Counting objects:  25% (8Counting objects:  28% (9Counting objects:  31% (1Counting objects:  34% (1Counting objects:  37% (1Counting objects:  40% (1Counting objects:  43% (1Counting objects:  46% (1Counting objects:  50% (1Counting objects:  53% (1Counting objects:  56% (1Counting objects:  59% (1Counting objects:  62% (2Counting objects:  65% (2Counting objects:  68% (2Counting objects:  71% (2Counting objects:  75% (2Counting objects:  78% (2Counting objects:  81% (2Counting objects:  84% (2Counting objects:  87% (2Counting objects:  90% (2Counting objects:  93% (3Counting objects:  96% (3Counting objects: 100% (3Counting objects: 100% (32/32), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   4%Compressing objects:   9%Compressing objects:  13%Compressing objects:  18%Compressing objects:  22%Compressing objects:  27%Compressing objects:  31%Compressing objects:  36%Compressing objects:  40%Compressing objects:  45%Compressing objects:  50%Compressing objects:  54%Compressing objects:  59%Compressing objects:  63%Compressing objects:  68%Compressing objects:  72%Compressing objects:  77%Compressing objects:  81%Compressing objects:  86%Compressing objects:  90%Compressing objects:  95%Compressing objects: 100%Compressing objects: 100% (22/22), done.\r\nWriting objects:   4% (1/Writing objects:   8% (2/Writing objects:  12% (3/Writing objects:  16% (4/Writing objects:  20% (5/Writing objects:  25% (6/Writing objects:  29% (7/Writing objects:  33% (8/Writing objects:  37% (9/Writing objects:  41% (10Writing objects:  45% (11Writing objects:  50% (12Writing objects:  54% (13Writing objects:  58% (14Writing objects:  62% (15Writing objects:  66% (16Writing objects:  70% (17Writing objects:  75% (18Writing objects:  79% (19Writing objects:  83% (20Writing objects:  87% (21Writing objects:  91% (22Writing objects:  95% (23Writing objects: 100% (24Writing objects: 100% (24/24), 32.22 KiB | 16.11 MiB/s, done.\r\nTotal 24 (delta 6), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (6/6), completed with 6 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n   8988125..2c6b9f1  main -> main\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git ad     \u001b[12X\u001b[5D",
                     "rows": 12
                   }
                 }
@@ -212,40 +212,41 @@
   },
   "active": "41a69f71db56a9f7",
   "lastOpenFiles": [
-    "_posts/autolisp/오토리습배우기/2024-03-28-10. 문자열들을 하나의 문자열로 합치기 - (strcat).md",
+    "_posts/코딩/오토리습/0. 포스팅.md",
+    "_posts/코딩/오토리습/2024-03-28-11. 숫자를 문자열로 변경하기 - (itoa), (rtos).md",
+    "_site/assets/template/autolisp-오토리습배우기.html",
+    "_site/assets/template",
+    "_site/assets/img/attachment/240328-11.gif",
+    "assets/img/attachment/240328-11.gif",
+    "_posts/코딩/오토리습/2024-03-28-10. 문자열들을 하나의 문자열로 합치기 - (strcat).md",
+    "_posts/코딩/오토리습/2024-03-28-8.  숫자 입력받기 - (getint), (getreal).md",
+    "_site/posts/11.-숫자를-문자열로-변경하기-(itoa),-(rtos)/index.html",
+    "_site/posts/11.-숫자를-문자열로-변경하기-(itoa),-(rtos)",
+    "_site/page2/index.html",
+    "_site/page2",
+    "_site/tags/convert/index.html",
+    "_site/tags/convert",
     "_site/assets/img/attachment/2024-03-28-10.gif",
     "assets/img/attachment/2024-03-28-10.gif",
-    "_posts/autolisp/오토리습배우기/2024-03-28-7. 명령어창에 메시지 출력하기 - (princ).md",
-    "_posts/autolisp/오토리습배우기/2024-03-28-6. 알림창 띄우기 - (alert).md",
-    "_posts/autolisp/오토리습배우기/2024-03-28-5. 좌표 입력받기 2 - (getcorner).md",
+    "_posts/코딩/오토리습/2024-03-28-7. 명령어창에 메시지 출력하기 - (princ).md",
+    "_posts/코딩/오토리습/2024-03-28-6. 알림창 띄우기 - (alert).md",
+    "_posts/코딩/오토리습/2024-03-28-5. 좌표 입력받기 2 - (getcorner).md",
     "_site/posts/10.-문자열들을-하나의-문자열로-합치기-(strcat)/index.html",
     "_site/posts/10.-문자열들을-하나의-문자열로-합치기-(strcat)",
-    "_site/tags/concat/index.html",
-    "_site/tags/concat",
-    "_site/tags/string/index.html",
-    "_site/tags/string",
-    "_site/tags/number/index.html",
-    "_site/tags/number",
-    "_posts/autolisp/오토리습배우기/2024-03-27-4. 좌표 입력받기 - (getpoint).md",
-    "_posts/autolisp/오토리습배우기/2024-03-27-2. 리습으로 캐드명령어 사용 해 보기 - (command).md",
-    "_posts/autolisp/오토리습배우기/2024-03-27-3. 값을 변수에 저장하기 (setq).md",
-    "_posts/autolisp/오토리습배우기/0. 포스팅.md",
-    "_posts/autolisp/오토리습배우기/2024-03-28-8.  숫자 입력받기 - (getint), (getreal).md",
-    "_posts/autolisp/오토리습배우기/2024-03-28-9. 문자열 입력받기 - (getstring).md",
-    "_site/posts/9.-문자열-입력받기-(getstring)/index.html",
-    "_site/posts/9.-문자열-입력받기-(getstring)",
+    "_posts/코딩/오토리습/2024-03-27-4. 좌표 입력받기 - (getpoint).md",
+    "_posts/코딩/오토리습/2024-03-27-2. 리습으로 캐드명령어 사용 해 보기 - (command).md",
+    "_posts/코딩/오토리습/2024-03-27-3. 값을 변수에 저장하기 (setq).md",
+    "_posts/코딩/오토리습/2024-03-28-9. 문자열 입력받기 - (getstring).md",
     "_site/assets/img/attachment/2024-03-28-9.gif",
     "assets/img/attachment/2024-03-28-9.gif",
     "_site/assets/img/attachment/2024-03-28-8.gif",
     "_site/assets/img/attachment/2024-03-28-8-1.gif",
     "assets/img/attachment/2024-03-28-8-1.gif",
     "assets/img/attachment/2024-03-28-8.gif",
-    "_posts/autolisp/오토리습배우기/2024-03-27-1. 오토리습(Autolisp) 시작하기.md",
-    "_site/assets/img/attachment/2024-03-28-7.gif",
-    "assets/img/attachment/2024-03-28-7.gif",
+    "_posts/코딩/오토리습/2024-03-27-1. 오토리습(Autolisp) 시작하기.md",
     "README.md",
     "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md",
-    "template/autolisp-오토리습배우기.md",
+    "assets/template/autolisp-오토리습배우기.md",
     "_tabs/about.md",
     "_tabs/archives.md",
     "_posts/autolisp/오토리습배우기/2024-03-26-undefined.md",
@@ -255,7 +256,6 @@
     "_posts/autolisp/오토리습배우기/Untitled.md",
     "_posts/autolisp/오토리습배우기/무제 파일 1.md",
     "_posts/autolisp/오토리습배우기/2024-.md",
-    "_posts/autolisp/오토리습배우기/2024-03-25-3.test.md",
-    "_posts/오토리습 배우기/2023-03-25-2. 리습으로 캐드명령어 사용 해 보기 (command).md"
+    "_posts/autolisp/오토리습배우기/2024-03-25-3.test.md"
   ]
 }
