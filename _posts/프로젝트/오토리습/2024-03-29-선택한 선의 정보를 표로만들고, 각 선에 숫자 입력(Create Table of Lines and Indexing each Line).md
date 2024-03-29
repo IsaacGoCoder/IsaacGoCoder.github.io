@@ -7,6 +7,8 @@ categories:
 tags:
   - autolisp
   - project
+  - table
+  - numbering
 image: assets/img/attachment/ttt_240306.gif
 ---
 
