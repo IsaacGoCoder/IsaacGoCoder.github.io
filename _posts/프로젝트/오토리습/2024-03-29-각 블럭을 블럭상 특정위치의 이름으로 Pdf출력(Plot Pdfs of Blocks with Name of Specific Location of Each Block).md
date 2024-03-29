@@ -7,6 +7,8 @@ categories:
 tags:
   - autolisp
   - project
+  - plot
+  - pdf
 image: assets/img/attachment/PDFplot_240224.gif
 ---
 
