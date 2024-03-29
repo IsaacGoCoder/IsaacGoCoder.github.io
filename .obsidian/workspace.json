@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cc9f96160743627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b3e88aa30dcb1688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/코딩/오토리습/0. 포스팅.md",
+                "file": "_posts/프로젝트/-2024-03-29-프로젝트 테스트 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +171,8 @@
                   },
                   "serial": {
                     "columns": 25,
-                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git add .\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ✚ -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git commit -m \"네이버 \u001b[7m \u001b[0m검색 태그 등록\"\r\n[main 2c3ce04] 네이버 검색 태그 등록\r\n 11 files changed, 70 insertions(+), 40 deletions(-)\r\n create mode 100644 _layouts/.DS_Store\r\n create mode 100644 _layouts/project.html\r\n create mode 100644 \"assets/template/2024-03-29-\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n create mode 100644 \"assets/template/2024-03-29-\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\"\r\n delete mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n delete mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\"\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m ↱ main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git push   \u001b[12X\r\nEnumerating objects: 30, done.\r\nCounting objects:   3% (1Counting objects:   6% (2Counting objects:  10% (3Counting objects:  13% (4Counting objects:  16% (5Counting objects:  20% (6Counting objects:  23% (7Counting objects:  26% (8Counting objects:  30% (9Counting objects:  33% (1Counting objects:  36% (1Counting objects:  40% (1Counting objects:  43% (1Counting objects:  46% (1Counting objects:  50% (1Counting objects:  53% (1Counting objects:  56% (1Counting objects:  60% (1Counting objects:  63% (1Counting objects:  66% (2Counting objects:  70% (2Counting objects:  73% (2Counting objects:  76% (2Counting objects:  80% (2Counting objects:  83% (2Counting objects:  86% (2Counting objects:  90% (2Counting objects:  93% (2Counting objects:  96% (2Counting objects: 100% (3Counting objects: 100% (30/30), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   5%Compressing objects:  11%Compressing objects:  17%Compressing objects:  23%Compressing objects:  29%Compressing objects:  35%Compressing objects:  41%Compressing objects:  47%Compressing objects:  52%Compressing objects:  58%Compressing objects:  64%Compressing objects:  70%Compressing objects:  76%Compressing objects:  82%Compressing objects:  88%Compressing objects:  94%Compressing objects: 100%Compressing objects: 100% (17/17), done.\r\nWriting objects:   5% (1/Writing objects:  11% (2/Writing objects:  17% (3/Writing objects:  23% (4/Writing objects:  29% (5/Writing objects:  35% (6/Writing objects:  41% (7/Writing objects:  47% (8/Writing objects:  52% (9/Writing objects:  58% (10Writing objects:  64% (11Writing objects:  70% (12Writing objects:  76% (13Writing objects:  82% (14Writing objects:  88% (15Writing objects:  94% (16Writing objects: 100% (17Writing objects: 100% (17/17), 2.24 KiB | 2.24 MiB/s, done.\r\nTotal 17 (delta 11), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (11/11), completed with 11 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n   0bcc26e..2c3ce04  main -> main\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git ad.d\u001b[15X",
-                    "rows": 9
+                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git add .\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ✚ -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git commit -m \"네이버 \u001b[7m \u001b[0m검색 태그 등록\"\r\n[main 2c3ce04] 네이버 검색 태그 등록\r\n 11 files changed, 70 insertions(+), 40 deletions(-)\r\n create mode 100644 _layouts/.DS_Store\r\n create mode 100644 _layouts/project.html\r\n create mode 100644 \"assets/template/2024-03-29-\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n create mode 100644 \"assets/template/2024-03-29-\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\"\r\n delete mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n delete mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\"\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m ↱ main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git push   \u001b[12X\r\nEnumerating objects: 30, done.\r\nCounting objects:   3% (1Counting objects:   6% (2Counting objects:  10% (3Counting objects:  13% (4Counting objects:  16% (5Counting objects:  20% (6Counting objects:  23% (7Counting objects:  26% (8Counting objects:  30% (9Counting objects:  33% (1Counting objects:  36% (1Counting objects:  40% (1Counting objects:  43% (1Counting objects:  46% (1Counting objects:  50% (1Counting objects:  53% (1Counting objects:  56% (1Counting objects:  60% (1Counting objects:  63% (1Counting objects:  66% (2Counting objects:  70% (2Counting objects:  73% (2Counting objects:  76% (2Counting objects:  80% (2Counting objects:  83% (2Counting objects:  86% (2Counting objects:  90% (2Counting objects:  93% (2Counting objects:  96% (2Counting objects: 100% (3Counting objects: 100% (30/30), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   5%Compressing objects:  11%Compressing objects:  17%Compressing objects:  23%Compressing objects:  29%Compressing objects:  35%Compressing objects:  41%Compressing objects:  47%Compressing objects:  52%Compressing objects:  58%Compressing objects:  64%Compressing objects:  70%Compressing objects:  76%Compressing objects:  82%Compressing objects:  88%Compressing objects:  94%Compressing objects: 100%Compressing objects: 100% (17/17), done.\r\nWriting objects:   5% (1/Writing objects:  11% (2/Writing objects:  17% (3/Writing objects:  23% (4/Writing objects:  29% (5/Writing objects:  35% (6/Writing objects:  41% (7/Writing objects:  47% (8/Writing objects:  52% (9/Writing objects:  58% (10Writing objects:  64% (11Writing objects:  70% (12Writing objects:  76% (13Writing objects:  82% (14Writing objects:  88% (15Writing objects:  94% (16Writing objects: 100% (17Writing objects: 100% (17/17), 2.24 KiB | 2.24 MiB/s, done.\r\nTotal 17 (delta 11), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (11/11), completed with 11 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n   0bcc26e..2c3ce04  main -> main\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git add .\u001b[14X\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ±✚ \u001b[33;49m\u001b[0m git commit --amend\u001b[4X\r\nhint: Waiting for your editor to close the file...\r\n[main f09553d] 네이버 검색 태그 등록\r\n Date: Fri Mar 29 10:32:38 2024 +0900\r\n 11 files changed, 70 insertions(+), 40 deletions(-)\r\n create mode 100644 _layouts/.DS_Store\r\n create mode 100644 _layouts/project.html\r\n create mode 100644 \"assets/template/2024-03-29-\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n create mode 100644 \"assets/template/2024-03-29-\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\"\r\n delete mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n delete mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\"\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m ⇅ main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git push -f\u001b[12X\r\nEnumerating objects: 30, done.\r\nCounting objects:   3% (1Counting objects:   6% (2Counting objects:  10% (3Counting objects:  13% (4Counting objects:  16% (5Counting objects:  20% (6Counting objects:  23% (7Counting objects:  26% (8Counting objects:  30% (9Counting objects:  33% (1Counting objects:  36% (1Counting objects:  40% (1Counting objects:  43% (1Counting objects:  46% (1Counting objects:  50% (1Counting objects:  53% (1Counting objects:  56% (1Counting objects:  60% (1Counting objects:  63% (1Counting objects:  66% (2Counting objects:  70% (2Counting objects:  73% (2Counting objects:  76% (2Counting objects:  80% (2Counting objects:  83% (2Counting objects:  86% (2Counting objects:  90% (2Counting objects:  93% (2Counting objects:  96% (2Counting objects: 100% (3Counting objects: 100% (30/30), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   5%Compressing objects:  11%Compressing objects:  17%Compressing objects:  23%Compressing objects:  29%Compressing objects:  35%Compressing objects:  41%Compressing objects:  47%Compressing objects:  52%Compressing objects:  58%Compressing objects:  64%Compressing objects:  70%Compressing objects:  76%Compressing objects:  82%Compressing objects:  88%Compressing objects:  94%Compressing objects: 100%Compressing objects: 100% (17/17), done.\r\nWriting objects:   5% (1/Writing objects:  11% (2/Writing objects:  17% (3/Writing objects:  23% (4/Writing objects:  29% (5/Writing objects:  35% (6/Writing objects:  41% (7/Writing objects:  47% (8/Writing objects:  52% (9/Writing objects:  58% (10Writing objects:  64% (11Writing objects:  70% (12Writing objects:  76% (13Writing objects:  82% (14Writing objects:  88% (15Writing objects:  94% (16Writing objects: 100% (17Writing objects: 100% (17/17), 2.84 KiB | 2.84 MiB/s, done.\r\nTotal 17 (delta 11), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (11/11), completed with 11 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n + 2c3ce04...f09553d main -> main (forced update)\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git acp \"Update : proje\r\ncts탭 생성함\"\r\n[main 174968b] Update : projects탭 생성함\r\n 7 files changed, 189 insertions(+), 63 deletions(-)\r\n delete mode 100644 _layouts/project.html\r\n create mode 100644 _layouts/projects.html\r\n create mode 100644 \"_posts/\\355\\224\\204\\353\\241\\234\\354\\240\\235\\355\\212\\270/2024-03-29-\\355\\224\\204\\353\\241\\234\\354\\240\\235\\355\\212\\270 \\355\\205\\214\\354\\212\\244\\355\\212\\270 1.md\"\r\n create mode 100644 \"_posts/\\355\\224\\204\\353\\241\\234\\354\\240\\235\\355\\212\\270/2024-03-29-\\355\\224\\204\\353\\241\\234\\354\\240\\235\\355\\212\\270 \\355\\205\\214\\354\\212\\244\\355\\212\\270.md\"\r\n create mode 100644 _tabs/projects.md\r\nEnumerating objects: 20, done.\r\nCounting objects:   5% (1Counting objects:  10% (2Counting objects:  15% (3Counting objects:  20% (4Counting objects:  25% (5Counting objects:  30% (6Counting objects:  35% (7Counting objects:  40% (8Counting objects:  45% (9Counting objects:  50% (1Counting objects:  55% (1Counting objects:  60% (1Counting objects:  65% (1Counting objects:  70% (1Counting objects:  75% (1Counting objects:  80% (1Counting objects:  85% (1Counting objects:  90% (1Counting objects:  95% (1Counting objects: 100% (2Counting objects: 100% (20/20), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   7%Compressing objects:  15%Compressing objects:  23%Compressing objects:  30%Compressing objects:  38%Compressing objects:  46%Compressing objects:  53%Compressing objects:  61%Compressing objects:  69%Compressing objects:  76%Compressing objects:  84%Compressing objects:  92%Compressing objects: 100%Compressing objects: 100% (13/13), done.\r\nWriting objects:   7% (1/Writing objects:  15% (2/Writing objects:  23% (3/Writing objects:  30% (4/Writing objects:  38% (5/Writing objects:  46% (6/Writing objects:  53% (7/Writing objects:  61% (8/Writing objects:  69% (9/Writing objects:  84% (11Writing objects:  92% (12Writing objects: 100% (13Writing objects: 100% (13/13), 2.97 KiB | 2.97 MiB/s, done.\r\nTotal 13 (delta 7), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (7/7), completed with 6 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n   f09553d..174968b  main -> main\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git add .\u001b[14X\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ✚ -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git commit --amend\u001b[5X\r\nhint: Waiting for your editor to close the file...\r\n[main 9b1083b] Update : projects탭 생성함\r\n Date: Fri Mar 29 12:58:53 2024 +0900\r\n 7 files changed, 189 insertions(+), 63 deletions(-)\r\n delete mode 100644 _layouts/project.html\r\n create mode 100644 _layouts/projects.html\r\n create mode 100644 \"_posts/\\355\\224\\204\\353\\241\\234\\354\\240\\235\\355\\212\\270/-2024-03-29-\\355\\224\\204\\353\\241\\234\\354\\240\\235\\355\\212\\270 \\355\\205\\214\\354\\212\\244\\355\\212\\270 1.md\"\r\n create mode 100644 \"_posts/\\355\\224\\204\\353\\241\\234\\354\\240\\235\\355\\212\\270/-2024-03-29-\\355\\224\\204\\353\\241\\234\\354\\240\\235\\355\\212\\270 \\355\\205\\214\\354\\212\\244\\355\\212\\270.md\"\r\n create mode 100644 _tabs/projects.md\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m ⇅ main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git push -f\u001b[12X\r\nEnumerating objects: 20, done.\r\nCounting objects:   5% (1Counting objects:  10% (2Counting objects:  15% (3Counting objects:  20% (4Counting objects:  25% (5Counting objects:  30% (6Counting objects:  35% (7Counting objects:  40% (8Counting objects:  45% (9Counting objects:  50% (1Counting objects:  55% (1Counting objects:  60% (1Counting objects:  65% (1Counting objects:  70% (1Counting objects:  75% (1Counting objects:  80% (1Counting objects:  85% (1Counting objects:  90% (1Counting objects:  95% (1Counting objects: 100% (2Counting objects: 100% (20/20), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   7%Compressing objects:  15%Compressing objects:  23%Compressing objects:  30%Compressing objects:  38%Compressing objects:  46%Compressing objects:  53%Compressing objects:  61%Compressing objects:  69%Compressing objects:  76%Compressing objects:  84%Compressing objects:  92%Compressing objects: 100%Compressing objects: 100% (13/13), done.\r\nWriting objects:   7% (1/Writing objects:  15% (2/Writing objects:  23% (3/Writing objects:  30% (4/Writing objects:  38% (5/Writing objects:  46% (6/Writing objects:  53% (7/Writing objects:  61% (8/Writing objects:  69% (9/Writing objects:  84% (11Writing objects:  92% (12Writing objects: 100% (13Writing objects: 100% (13/13), 3.47 KiB | 3.47 MiB/s, done.\r\nTotal 13 (delta 7), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (7/7), completed with 6 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n + 174968b...9b1083b main -> main (forced update)\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git a\u001b[18X",
+                    "rows": 12
                   }
                 }
               },
@@ -215,27 +199,31 @@
   },
   "active": "41a69f71db56a9f7",
   "lastOpenFiles": [
-    "_site/assets/template/2024-03-29-코딩-오토리습.html",
-    "_site/assets/template/2024-03-29-코딩-Swift.html",
-    "_site/assets/template",
+    "_posts/프로젝트/-2024-03-29-프로젝트 테스트 1.md",
+    "_posts/프로젝트/-2024-03-29-프로젝트 테스트.md",
+    "_site/categories/오토리습-autolisp-projects/index.html",
+    "_site/categories/오토리습-autolisp-projects",
+    "_site/categories/swift-projects/index.html",
+    "_site/categories/swift-projects",
+    "_site/categories/nest/index.html",
+    "_site/categories/nest",
+    "_site/categories/swift-swift/index.html",
+    "_site/categories/swift-swift",
+    "_site/posts/프로젝트-테스트-1/index.html",
+    "_site/posts/프로젝트-테스트-1",
+    "_posts/프로젝트/무제 파일.md",
+    "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md",
+    "_posts/코딩/오토리습/0. 포스팅.md",
+    "_tabs/projects.md",
+    "_tabs/categories 복사본.md",
     "assets/template/2024-03-29-코딩-오토리습.md",
     "assets/template/2024-03-29-코딩-Swift.md",
-    "assets/template",
-    "_site/template/2024-03-29-코딩-오토리습.html",
-    "_site/template/2024-03-29-코딩-Swift.html",
-    "_site/template/코딩-오토리습.html",
-    "_site/template/코딩-Swift.html",
-    "_site/template",
     "template/2024-03-29-코딩-오토리습.md",
     "template/2024-03-29-코딩-Swift.md",
-    "template",
-    "_layouts/project.html",
-    "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md",
     "_site/assets/img/attachment/코딩-Swift.png",
     "assets/template/코딩-Swift.md",
     "assets/img/attachment/코딩-Swift.png",
     "assets/template/코딩-오토리습.md",
-    "_posts/코딩/오토리습/0. 포스팅.md",
     "_posts/코딩/오토리습/2024-03-28-11. 숫자를 문자열로 변경하기 - (itoa), (rtos).md",
     "_site/assets/img/attachment/240328-11.gif",
     "assets/img/attachment/240328-11.gif",
@@ -255,11 +243,6 @@
     "_site/assets/img/attachment/2024-03-28-8.gif",
     "_site/assets/img/attachment/2024-03-28-8-1.gif",
     "_posts/코딩/오토리습/2024-03-27-1. 오토리습(Autolisp) 시작하기.md",
-    "README.md",
-    "_posts/autolisp/오토리습배우기/2024-03-26-3. 어떠려나.md",
-    "_tabs/about.md",
-    "_tabs/archives.md",
-    "_posts/autolisp/오토리습배우기/2024-03-26-undefined.md",
-    "_posts/autolisp/오토리습배우기/2024-03-26-.md"
+    "README.md"
   ]
 }
