@@ -11,6 +11,7 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: 홈(Home)
+  projects: 프로젝트(Projects)
   categories: 카테고리(Categories)
   tags: 태그(Tags)
   archives: 아카이브(Archives)

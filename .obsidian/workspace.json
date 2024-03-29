@@ -108,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md"
+              }
             }
           },
           {
@@ -125,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +187,7 @@
                   },
                   "serial": {
                     "columns": 25,
-                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git acp \"Post : 코딩 - \r\nSwift 시작\"\r\n[main 0f5b355] Post : 코딩 - Swift 시작\r\n 8 files changed, 50 insertions(+), 20 deletions(-)\r\n create mode 100644 \"_posts/\\354\\275\\224\\353\\224\\251/Swift/2024-03-28-Swift \\354\\271\\264\\355\\205\\214\\352\\263\\240\\353\\246\\254 \\354\\213\\234\\354\\236\\221.md\"\r\n create mode 100644 \"assets/img/attachment/\\354\\275\\224\\353\\224\\251-Swift.png\"\r\n create mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n rename \"assets/template/autolisp-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260.md\" => \"assets/template/\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\" (100%)\r\nEnumerating objects: 33, done.\r\nCounting objects:   3% (1Counting objects:   6% (2Counting objects:   9% (3Counting objects:  12% (4Counting objects:  15% (5Counting objects:  18% (6Counting objects:  21% (7Counting objects:  24% (8Counting objects:  27% (9Counting objects:  30% (1Counting objects:  33% (1Counting objects:  36% (1Counting objects:  39% (1Counting objects:  42% (1Counting objects:  45% (1Counting objects:  48% (1Counting objects:  51% (1Counting objects:  54% (1Counting objects:  57% (1Counting objects:  60% (2Counting objects:  63% (2Counting objects:  66% (2Counting objects:  69% (2Counting objects:  72% (2Counting objects:  75% (2Counting objects:  78% (2Counting objects:  81% (2Counting objects:  84% (2Counting objects:  87% (2Counting objects:  90% (3Counting objects:  93% (3Counting objects:  96% (3Counting objects: 100% (3Counting objects: 100% (33/33), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   5%Compressing objects:  10%Compressing objects:  15%Compressing objects:  21%Compressing objects:  26%Compressing objects:  31%Compressing objects:  36%Compressing objects:  42%Compressing objects:  47%Compressing objects:  52%Compressing objects:  57%Compressing objects:  63%Compressing objects:  68%Compressing objects:  73%Compressing objects:  78%Compressing objects:  84%Compressing objects:  89%Compressing objects:  94%Compressing objects: 100%Compressing objects: 100% (19/19), done.\r\nWriting objects:   5% (1/Writing objects:  10% (2/Writing objects:  15% (3/Writing objects:  21% (4/Writing objects:  26% (5/Writing objects:  31% (6/Writing objects:  36% (7/Writing objects:  42% (8/Writing objects:  47% (9/Writing objects:  52% (10Writing objects:  57% (11Writing objects:  63% (12Writing objects:  68% (13Writing objects:  73% (14Writing objects:  78% (15Writing objects:  84% (16Writing objects:  89% (17Writing objects:  94% (18Writing objects: 100% (19Writing objects: 100% (19/19), 75.35 KiB | 25.12 MiB/s, done.\r\nTotal 19 (delta 10), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (10/10), completed with 10 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n   779e047..0f5b355  main -> main\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git add .\u001b[14X\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ✚ -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git commit --amend\u001b[5X\r\nhint: Waiting for your editor to close the file...\r\n[main 044644c] Post : 코딩 - Swift 시작\r\n Date: Thu Mar 28 22:19:43 2024 +0900\r\n 8 files changed, 88 insertions(+), 21 deletions(-)\r\n create mode 100644 \"_posts/\\354\\275\\224\\353\\224\\251/Swift/2024-03-28-Swift \\354\\271\\264\\355\\205\\214\\352\\263\\240\\353\\246\\254 \\354\\213\\234\\354\\236\\221.md\"\r\n create mode 100644 \"assets/img/attachment/\\354\\275\\224\\353\\224\\251-Swift.png\"\r\n create mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n rename \"assets/template/autolisp-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265\\353\\260\\260\\354\\232\\260\\352\\270\\260.md\" => \"assets/template/\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\" (100%)\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m ⇅ main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git push -f\u001b[12X\r\nEnumerating objects: 33, done.\r\nCounting objects:   3% (1Counting objects:   6% (2Counting objects:   9% (3Counting objects:  12% (4Counting objects:  15% (5Counting objects:  18% (6Counting objects:  21% (7Counting objects:  24% (8Counting objects:  27% (9Counting objects:  30% (1Counting objects:  33% (1Counting objects:  36% (1Counting objects:  39% (1Counting objects:  42% (1Counting objects:  45% (1Counting objects:  48% (1Counting objects:  51% (1Counting objects:  54% (1Counting objects:  57% (1Counting objects:  60% (2Counting objects:  63% (2Counting objects:  66% (2Counting objects:  69% (2Counting objects:  72% (2Counting objects:  75% (2Counting objects:  78% (2Counting objects:  81% (2Counting objects:  84% (2Counting objects:  87% (2Counting objects:  90% (3Counting objects:  93% (3Counting objects:  96% (3Counting objects: 100% (3Counting objects: 100% (33/33), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   5%Compressing objects:  10%Compressing objects:  15%Compressing objects:  21%Compressing objects:  26%Compressing objects:  31%Compressing objects:  36%Compressing objects:  42%Compressing objects:  47%Compressing objects:  52%Compressing objects:  57%Compressing objects:  63%Compressing objects:  68%Compressing objects:  73%Compressing objects:  78%Compressing objects:  84%Compressing objects:  89%Compressing objects:  94%Compressing objects: 100%Compressing objects: 100% (19/19), done.\r\nWriting objects:   5% (1/Writing objects:  10% (2/Writing objects:  15% (3/Writing objects:  21% (4/Writing objects:  26% (5/Writing objects:  31% (6/Writing objects:  36% (7/Writing objects:  42% (8/Writing objects:  47% (9/Writing objects:  52% (10Writing objects:  57% (11Writing objects:  63% (12Writing objects:  68% (13Writing objects:  73% (14Writing objects:  78% (15Writing objects:  84% (16Writing objects:  89% (17Writing objects:  94% (18Writing objects: 100% (19Writing objects: 100% (19/19), 77.74 KiB | 25.91 MiB/s, done.\r\nTotal 19 (delta 10), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (10/10), completed with 10 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n + 0f5b355...044644c main -> main (forced update)\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git add .\u001b[14X\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ±✚ \u001b[33;49m\u001b[0m git commit -m \"goatcou\r\nnter test\"\r\n[main 7bcd1f6] goatcounter test\r\n 4 files changed, 3 insertions(+), 1 deletion(-)\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m ↱ main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git push\u001b[15X\r\nEnumerating objects: 17, done.\r\nCounting objects:   5% (1Counting objects:  11% (2Counting objects:  17% (3Counting objects:  23% (4Counting objects:  29% (5Counting objects:  35% (6Counting objects:  41% (7Counting objects:  47% (8Counting objects:  52% (9Counting objects:  58% (1Counting objects:  64% (1Counting objects:  70% (1Counting objects:  76% (1Counting objects:  82% (1Counting objects:  88% (1Counting objects:  94% (1Counting objects: 100% (1Counting objects: 100% (17/17), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:  11%Compressing objects:  22%Compressing objects:  33%Compressing objects:  44%Compressing objects:  55%Compressing objects:  66%Compressing objects:  77%Compressing objects:  88%Compressing objects: 100%Compressing objects: 100% (9/9), done.\r\nWriting objects:  11% (1/Writing objects:  22% (2/Writing objects:  33% (3/Writing objects:  44% (4/Writing objects:  55% (5/Writing objects:  66% (6/Writing objects:  77% (7/Writing objects:  88% (8/Writing objects: 100% (9/Writing objects: 100% (9/9), 1.10 KiB | 1.10 MiB/s, done.\r\nTotal 9 (delta 8), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (8/8), completed with 8 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n   044644c..7bcd1f6  main -> main\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git commit -m \"goatcounter test\"",
+                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git add .\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ✚ -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git commit -m \"네이버 \u001b[7m \u001b[0m검색 태그 등록\"\r\n[main 2c3ce04] 네이버 검색 태그 등록\r\n 11 files changed, 70 insertions(+), 40 deletions(-)\r\n create mode 100644 _layouts/.DS_Store\r\n create mode 100644 _layouts/project.html\r\n create mode 100644 \"assets/template/2024-03-29-\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n create mode 100644 \"assets/template/2024-03-29-\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\"\r\n delete mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-Swift.md\"\r\n delete mode 100644 \"assets/template/\\354\\275\\224\\353\\224\\251-\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265.md\"\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m ↱ main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git push   \u001b[12X\r\nEnumerating objects: 30, done.\r\nCounting objects:   3% (1Counting objects:   6% (2Counting objects:  10% (3Counting objects:  13% (4Counting objects:  16% (5Counting objects:  20% (6Counting objects:  23% (7Counting objects:  26% (8Counting objects:  30% (9Counting objects:  33% (1Counting objects:  36% (1Counting objects:  40% (1Counting objects:  43% (1Counting objects:  46% (1Counting objects:  50% (1Counting objects:  53% (1Counting objects:  56% (1Counting objects:  60% (1Counting objects:  63% (1Counting objects:  66% (2Counting objects:  70% (2Counting objects:  73% (2Counting objects:  76% (2Counting objects:  80% (2Counting objects:  83% (2Counting objects:  86% (2Counting objects:  90% (2Counting objects:  93% (2Counting objects:  96% (2Counting objects: 100% (3Counting objects: 100% (30/30), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   5%Compressing objects:  11%Compressing objects:  17%Compressing objects:  23%Compressing objects:  29%Compressing objects:  35%Compressing objects:  41%Compressing objects:  47%Compressing objects:  52%Compressing objects:  58%Compressing objects:  64%Compressing objects:  70%Compressing objects:  76%Compressing objects:  82%Compressing objects:  88%Compressing objects:  94%Compressing objects: 100%Compressing objects: 100% (17/17), done.\r\nWriting objects:   5% (1/Writing objects:  11% (2/Writing objects:  17% (3/Writing objects:  23% (4/Writing objects:  29% (5/Writing objects:  35% (6/Writing objects:  41% (7/Writing objects:  47% (8/Writing objects:  52% (9/Writing objects:  58% (10Writing objects:  64% (11Writing objects:  70% (12Writing objects:  76% (13Writing objects:  82% (14Writing objects:  88% (15Writing objects:  94% (16Writing objects: 100% (17Writing objects: 100% (17/17), 2.24 KiB | 2.24 MiB/s, done.\r\nTotal 17 (delta 11), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (11/11), completed with 11 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n   0bcc26e..2c3ce04  main -> main\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git ad.d\u001b[15X",
                     "rows": 9
                   }
                 }
@@ -211,23 +215,28 @@
   },
   "active": "41a69f71db56a9f7",
   "lastOpenFiles": [
+    "_site/assets/template/2024-03-29-코딩-오토리습.html",
+    "_site/assets/template/2024-03-29-코딩-Swift.html",
+    "_site/assets/template",
+    "assets/template/2024-03-29-코딩-오토리습.md",
+    "assets/template/2024-03-29-코딩-Swift.md",
+    "assets/template",
+    "_site/template/2024-03-29-코딩-오토리습.html",
+    "_site/template/2024-03-29-코딩-Swift.html",
+    "_site/template/코딩-오토리습.html",
+    "_site/template/코딩-Swift.html",
+    "_site/template",
+    "template/2024-03-29-코딩-오토리습.md",
+    "template/2024-03-29-코딩-Swift.md",
+    "template",
+    "_layouts/project.html",
     "_posts/코딩/Swift/2024-03-28-Swift 카테고리 시작.md",
-    "_site/posts/Swift-카테고리-시작/index.html",
-    "_site/posts/Swift-카테고리-시작",
     "_site/assets/img/attachment/코딩-Swift.png",
-    "_site/categories/swift/index.html",
-    "_site/categories/swift",
-    "_site/tags/swift/index.html",
-    "_site/tags/swift",
-    "_site/assets/template/코딩-오토리습.html",
-    "_site/assets/template/코딩-Swift.html",
     "assets/template/코딩-Swift.md",
     "assets/img/attachment/코딩-Swift.png",
     "assets/template/코딩-오토리습.md",
     "_posts/코딩/오토리습/0. 포스팅.md",
-    "_posts/코딩/Swift",
     "_posts/코딩/오토리습/2024-03-28-11. 숫자를 문자열로 변경하기 - (itoa), (rtos).md",
-    "_site/assets/template/autolisp-오토리습배우기.html",
     "_site/assets/img/attachment/240328-11.gif",
     "assets/img/attachment/240328-11.gif",
     "_posts/코딩/오토리습/2024-03-28-10. 문자열들을 하나의 문자열로 합치기 - (strcat).md",
@@ -251,10 +260,6 @@
     "_tabs/about.md",
     "_tabs/archives.md",
     "_posts/autolisp/오토리습배우기/2024-03-26-undefined.md",
-    "_posts/autolisp/오토리습배우기/2024-03-26-.md",
-    "_posts/autolisp/오토리습배우기/2024-03-26.md",
-    "_posts/autolisp/오토리습배우기/2024-03-26-3. 제목.md",
-    "_posts/autolisp/오토리습배우기/Untitled.md",
-    "_posts/autolisp/오토리습배우기/무제 파일 1.md"
+    "_posts/autolisp/오토리습배우기/2024-03-26-.md"
   ]
 }
