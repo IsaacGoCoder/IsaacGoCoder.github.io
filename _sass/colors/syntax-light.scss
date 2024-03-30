@@ -31,6 +31,7 @@ pre {
   }
 
   .highlight table pre {
+    white-space: pre-wrap;
     margin: 0;
   }
 
@@ -80,15 +81,18 @@ pre {
   }
 
   .highlight .sr {
-    color: #116329;
+    // color: #116329;
+    color: #00ffbf;
   }
 
   .highlight .na {
-    color: #116329;
+    // color: #116329;
+    color: #00ffbf;
   }
 
   .highlight .nt {
-    color: #116329;
+    // color: #116329;
+    color: #00ffbf;
   }
 
   .highlight .gi {
@@ -145,16 +149,19 @@ pre {
 
   .highlight .o,
   .highlight .ow {
-    color: #0550ae;
+    // color: #0550ae;
+    color: #0073ff;
   }
 
   .highlight .gh {
-    color: #0550ae;
+    // color: #0550ae;
+    color: #0073ff;
     font-weight: bold;
   }
 
   .highlight .gu {
-    color: #0550ae;
+    // color: #0550ae;
+    color: #0073ff;
     font-weight: bold;
   }
 

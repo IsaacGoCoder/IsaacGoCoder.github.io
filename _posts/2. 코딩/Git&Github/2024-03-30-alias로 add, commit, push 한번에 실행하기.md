@@ -90,7 +90,7 @@ f() { git add . && git commit -m "$1" && git push;}
 
 이제 위 함수를 정의하고 실행시키는 별칭 `acp`를 만들어 보겠습니다.
 ```shell
-git config --global alias.acp '!f(){ git add . && git commit -m $1 && git push; }; f'
+git config --global alias.acp '!f(){ git add . && git commit -m "$1" && git push; }; f'
 ```
 > - 이 별칭은 먼저 함수 `f`를 정의 한 후, `f`를 실행합니다.
 > - 쉘에서는 함수호출시에 `()`를 사용하지 않으며, 인자를 전달하고싶으면 함수명 뒤에 각 인자들을 공백으로 구분해서 전달합니다.
@@ -103,7 +103,7 @@ git acp "커밋메시지"
 ```
 > - 위 명령어는 다음을 실행하는 것과 같습니다.
 ```shell
-f(){ git add . && git commit -m $1 && git push; }; f "커밋메시지"
+f(){ git add . && git commit -m "$1" && git push; }; f "커밋메시지"
 ```
 	- `f`함수를 정의하고 `f`함수 호출시에 첫 번째 인자로 **커밋메시지**를 전달합니다.
 	- 그럼 그 커밋메시지는 `f`함수의 `commit -m`에 전달되게 됩니다.
