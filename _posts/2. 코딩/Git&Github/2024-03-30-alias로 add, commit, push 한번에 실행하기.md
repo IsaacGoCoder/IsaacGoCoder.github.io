@@ -109,11 +109,11 @@ f(){ git add . && git commit -m $1 && git push; }; f "커밋메시지"
 	- 그럼 그 커밋메시지는 `f`함수의 `commit -m`에 전달되게 됩니다.
 {: .prompt-info }
 
-> #### 주의사항
+> **주의사항**
 > - 함수 정의시 함수 내부의 문장끝에 `;`가 있어야 합니다
 > - 함수 정의와 호출이 한 줄에 이루어 지므로, 둘을 `;`로 구분해야 합니다
 > - git 명령어로 alias 정의시의 버그같은데, 내부 함수 정의시에 `{`와 다음 내용에 공백이 없으면 에러가 발생합니다.
-{: .prompt-warning }
+{: .prompt-danger }
 
 <br>
 <hr>
@@ -127,6 +127,7 @@ git config (--global) --list
 - `--global`를 붙이면 전역설정파일을, 생략하면 로컬설정파일을 열게됩니다.
 - 기본값으로 `vim`에디터로 열립니다.
 	- 수정 없이 종료하려면 `:q`를 입력하고 엔터를 누릅니다.
+
 <br>
 <hr>
 
@@ -139,5 +140,5 @@ git config (--global) --list
 - Mac :` ~/.gitconfig`
 - Windows : `C:\Users\__사용자폴더__\.gitconfig`
 
-#### 로컬 설정파일 경로
+### 로컬 설정파일 경로
 - `./.git/config`
