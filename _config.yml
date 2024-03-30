@@ -205,3 +205,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# 테스트용
+my_test : "this is my test!!!"
