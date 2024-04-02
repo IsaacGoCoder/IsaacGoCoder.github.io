@@ -9,6 +9,7 @@ tags:
   - project
   - align
   - justify
+public_post: true
 image: assets/img/attachment/rw.gif
 ---
 

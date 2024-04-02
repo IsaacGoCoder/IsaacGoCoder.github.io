@@ -7,6 +7,7 @@ categories:
 tags:
   - autolisp
   - project
+public_post: true
 image: assets/img/attachment/화면%20기록%202024-03-18%20오후%204.55.53.gif
 ---
 ### 기능(Functionality)

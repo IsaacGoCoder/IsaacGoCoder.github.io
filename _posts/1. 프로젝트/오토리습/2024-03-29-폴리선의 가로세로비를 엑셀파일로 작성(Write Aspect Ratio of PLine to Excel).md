@@ -8,6 +8,7 @@ tags:
   - autolisp
   - project
   - excel
+public_post: true
 image: assets/img/attachment/rlOJu9G%20-%20Imgur.gif
 ---
 

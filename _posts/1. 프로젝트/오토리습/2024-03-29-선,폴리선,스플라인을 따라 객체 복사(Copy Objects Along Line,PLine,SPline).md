@@ -9,6 +9,7 @@ tags:
   - project
   - copy
   - along
+public_post: true
 image: assets/img/attachment/Dec-22-2023%2022-22-20.gif
 ---
 

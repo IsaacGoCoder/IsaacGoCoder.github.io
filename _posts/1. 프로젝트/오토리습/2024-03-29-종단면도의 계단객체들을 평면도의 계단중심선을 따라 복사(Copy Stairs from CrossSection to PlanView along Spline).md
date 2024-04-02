@@ -10,6 +10,7 @@ tags:
   - copy
   - along
   - spline
+public_post: true
 image: assets/img/attachment/ar2_240314.gif
 ---
 

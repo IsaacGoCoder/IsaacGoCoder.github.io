@@ -8,6 +8,7 @@ tags:
   - autolisp
   - project
   - merge
+public_post: true
 image: assets/img/attachment/MJ_240119.gif
 ---
 

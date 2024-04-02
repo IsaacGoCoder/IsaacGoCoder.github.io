@@ -9,6 +9,7 @@ tags:
   - project
   - table
   - numbering
+public_post: true
 image: assets/img/attachment/ttt_240306.gif
 ---
 

@@ -9,6 +9,7 @@ tags:
   - project
   - select
   - last
+public_post: true
 image: assets/img/attachment/sa_240217.gif
 ---
 

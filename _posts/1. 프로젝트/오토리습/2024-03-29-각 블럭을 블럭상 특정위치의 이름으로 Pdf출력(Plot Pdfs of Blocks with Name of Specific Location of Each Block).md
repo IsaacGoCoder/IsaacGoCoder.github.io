@@ -9,6 +9,7 @@ tags:
   - project
   - plot
   - pdf
+public_post: true
 image: assets/img/attachment/PDFplot_240224.gif
 ---
 
