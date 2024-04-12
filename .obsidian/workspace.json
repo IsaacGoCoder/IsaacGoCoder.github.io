@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2. 코딩/오토리습/2024-04-11-14. 조건에 따라 다른 기능 실행하기 1 - (if).md",
+                "file": "_posts/2. 코딩/오토리습/2024-04-12-15. 조건에 따라 다른 기능 실행하기 2 -  비교함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 366.5
   },
   "right": {
     "id": "a6d9182e90a21268",
@@ -89,7 +89,7 @@
       {
         "id": "22245c184a828f09",
         "type": "tabs",
-        "dimension": 73.76893939393939,
+        "dimension": 65.59241706161137,
         "children": [
           {
             "id": "d1c5471a02528fb2",
@@ -140,7 +140,7 @@
       {
         "id": "b6bd9a5c5ea9460d",
         "type": "tabs",
-        "dimension": 26.23106060606061,
+        "dimension": 34.40758293838863,
         "children": [
           {
             "id": "41a69f71db56a9f7",
@@ -172,8 +172,8 @@
                   },
                   "serial": {
                     "columns": 25,
-                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git acp \"Post:코딩 - 오\r\n토리습 - 1",
-                    "rows": 12
+                    "data": "/Users/gohyeoncheol/.zshrc:108: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git acp \"Post:코딩 - 오\r\n토리습 - 14\"\r\n[main 9b4cff5] Post:코딩 - 오토리습 - 14\r\n 9 files changed, 113 insertions(+), 19 deletions(-)\r\n create mode 100644 \"_posts/2. \\354\\275\\224\\353\\224\\251/.DS_Store\"\r\n create mode 100644 \"_posts/2. \\354\\275\\224\\353\\224\\251/\\354\\230\\244\\355\\206\\240\\353\\246\\254\\354\\212\\265/2024-04-11-14. \\354\\241\\260\\352\\261\\264\\354\\227\\220 \\353\\224\\260\\353\\235\\274 \\353\\213\\244\\353\\245\\270 \\352\\270\\260\\353\\212\\245 \\354\\213\\244\\355\\226\\211\\355\\225\\230\\352\\270\\260 1 - (if).md\"\r\n create mode 100644 assets/img/attachment/if-240411.gif\r\nEnumerating objects: 38, done.\r\nCounting objects:   2% (1Counting objects:   5% (2Counting objects:   7% (3Counting objects:  10% (4Counting objects:  13% (5Counting objects:  15% (6Counting objects:  18% (7Counting objects:  21% (8Counting objects:  23% (9Counting objects:  26% (1Counting objects:  28% (1Counting objects:  31% (1Counting objects:  34% (1Counting objects:  36% (1Counting objects:  39% (1Counting objects:  42% (1Counting objects:  44% (1Counting objects:  47% (1Counting objects:  50% (1Counting objects:  52% (2Counting objects:  55% (2Counting objects:  57% (2Counting objects:  60% (2Counting objects:  63% (2Counting objects:  65% (2Counting objects:  68% (2Counting objects:  71% (2Counting objects:  73% (2Counting objects:  76% (2Counting objects:  78% (3Counting objects:  81% (3Counting objects:  84% (3Counting objects:  86% (3Counting objects:  89% (3Counting objects:  92% (3Counting objects:  94% (3Counting objects:  97% (3Counting objects: 100% (3Counting objects: 100% (38/38), done.\r\nDelta compression using up to 10 threads\r\nCompressing objects:   4%Compressing objects:   9%Compressing objects:  14%Compressing objects:  19%Compressing objects:  23%Compressing objects:  28%Compressing objects:  33%Compressing objects:  38%Compressing objects:  42%Compressing objects:  47%Compressing objects:  52%Compressing objects:  57%Compressing objects:  61%Compressing objects:  66%Compressing objects:  71%Compressing objects:  76%Compressing objects:  80%Compressing objects:  85%Compressing objects:  90%Compressing objects:  95%Compressing objects: 100%Compressing objects: 100% (21/21), done.\r\nWriting objects:   4% (1/Writing objects:   9% (2/Writing objects:  14% (3/Writing objects:  19% (4/Writing objects:  23% (5/Writing objects:  28% (6/Writing objects:  33% (7/Writing objects:  38% (8/Writing objects:  42% (9/Writing objects:  47% (10Writing objects:  52% (11Writing objects:  57% (12Writing objects:  61% (13Writing objects:  66% (14Writing objects:  71% (15Writing objects:  76% (16Writing objects:  80% (17Writing objects:  85% (18Writing objects:  90% (19Writing objects:  95% (20Writing objects: 100% (21Writing objects: 100% (21/21), 11.42 KiB | 11.42 MiB/s, done.\r\nTotal 21 (delta 14), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas:remote: Resolving deltas: 100% (14/14), completed with 14 local objects.\r\nTo https://github.com/IsaacGoCoder/IsaacGoCoder.github.io.git\r\n   c0f3d84..9b4cff5  main -> main\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git acp \"Post: 코딩-오\u001b[7m \u001b[0m토리습-15",
+                    "rows": 17
                   }
                 }
               },
@@ -200,35 +200,36 @@
   },
   "active": "41a69f71db56a9f7",
   "lastOpenFiles": [
+    "_posts/2. 코딩/오토리습/2024-04-12-15. 조건에 따라 다른 기능 실행하기 2 -  비교함수.md",
+    "assets/img/attachment/240412 - 15-1.gif",
+    "_site/assets/img/attachment/240412 - 15-1.gif",
+    "_site/posts/15.-조건에-따라-다른-기능-실행하기-2-비교함수/index.html",
+    "_site/posts/15.-조건에-따라-다른-기능-실행하기-2-비교함수",
+    "_site/assets/img/attachment/240412 - 15.gif",
+    "_site/tags/compare/index.html",
+    "_site/tags/compare",
+    "_site/tags/condition/index.html",
+    "_site/tags/condition",
+    "_site/tags/if/index.html",
+    "_site/tags/if",
+    "_site/tags/angle/index.html",
+    "_site/tags/angle",
+    "assets/img/attachment/240412 - 15.gif",
     "_posts/2. 코딩/오토리습/2024-04-11-14. 조건에 따라 다른 기능 실행하기 1 - (if).md",
+    "_posts/2. 코딩/오토리습/2024-04-02-13. 각도 입력받기 - (getangle).md",
+    "_posts/2. 코딩/오토리습/2024-04-01-12. 거리 입력받기 - (getdist).md",
     "_site/assets/img/attachment/if-240411.gif",
     "assets/img/attachment/if-240411.gif",
-    "_site/posts/14.-조건에-따라-다른-기능-실행하기-1-(if)/index.html",
-    "_site/posts/14.-조건에-따라-다른-기능-실행하기-1-(if)",
     "_posts/2. 코딩/오토리습/0. 포스팅.md",
-    "_posts/2. 코딩/오토리습/2024-04-02-13. 각도 입력받기 - (getangle).md",
     "_posts/2. 코딩/Swift/2024-03-28-Swift 카테고리 시작.md",
     "_posts/2. 코딩/Git&Github/2024-03-30-alias로 add, commit, push 한번에 실행하기.md",
     "_posts/1. 프로젝트/오토리습/2024-04-02-폴리선 내부의 특정문자객체를 엑셀에 작성(Write Excel File From Text Objects Included by Polyline).md",
-    "_site/posts/13.-각도-입력받기-(getangle)/index.html",
-    "_site/posts/13.-각도-입력받기-(getangle)",
     "_site/assets/img/attachment/getangle1.gif",
     "_site/assets/img/attachment/getangle.gif",
-    "_posts/2. 코딩/오토리습/2024-04-01-12. 거리 입력받기 - (getdist).md",
     "assets/img/attachment/getangle1.gif",
     "assets/img/attachment/getangle.gif",
     "_posts/1. 프로젝트/오토리습/2024-04-02-한점 또는 교점에 등고선의 높이를 텍스트로 추가(Add Elevation Texts to Contour PLine at Point or Intersect Points).md",
-    "_site/posts/한점-또는-교점에-등고선의-높이를-텍스트로-추가(Add-Elevation-Texts-to-Contour-PLine-at-Point-or-Intersect-Points)/index.html",
-    "_site/posts/한점-또는-교점에-등고선의-높이를-텍스트로-추가(Add-Elevation-Texts-to-Contour-PLine-at-Point-or-Intersect-Points)",
-    "_site/assets/img/attachment/el-240402.gif",
-    "_site/tags/text/index.html",
-    "_site/tags/text",
-    "_site/tags/elevation/index.html",
-    "_site/tags/elevation",
-    "assets/img/attachment/el-240402.gif",
     "_posts/1. 프로젝트/오토리습/2024-04-02-폴리선의 각 절점에 순서대로 넘버링(Numbering Each Vertices Of PLine In Sequence).md",
-    "_site/assets/img/attachment/tox_240402.gif",
-    "_site/assets/img/attachment/ptn_240402.gif",
     "assets/template/1. 프로젝트/1. 프로젝트-오토리습.md",
     "_posts/1. 프로젝트/오토리습/2024-03-30-복사시 Tab키로 객체 회전(Copy and Rotate Objects with Tab key).md",
     "_posts/2. 코딩/오토리습/2024-03-27-1. 오토리습(Autolisp) 시작하기.md",
@@ -243,7 +244,6 @@
     "_posts/1. 프로젝트/오토리습/2024-03-29-동일선상의 선 병합(Merge lines on the collinear).md",
     "_posts/2. 코딩/오토리습/2024-03-27-3. 값을 변수에 저장하기 (setq).md",
     "_posts/2. 코딩/오토리습/2024-03-27-4. 좌표 입력받기 - (getpoint).md",
-    "_posts/2. 코딩/오토리습/2024-03-28-5. 좌표 입력받기 2 - (getcorner).md",
-    "_posts/2. 코딩/오토리습/2024-03-28-6. 알림창 띄우기 - (alert).md"
+    "_posts/2. 코딩/오토리습/2024-03-28-5. 좌표 입력받기 2 - (getcorner).md"
   ]
 }
