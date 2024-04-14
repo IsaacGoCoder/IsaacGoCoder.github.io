@@ -17,7 +17,9 @@ order: 4
 Hi
 
 If you want to make any programs developed(including AutoCAD macros),
+
 please feel free to send me an e-mail at **isaacgocoder@gamil.com** with your requirements
-or inquire through **[My Gig](https://www.fiverr.com/s/Rp0XrR)** on fiverr.
+
+or please inquire me through **[My Gig](https://www.fiverr.com/s/Rp0XrR)** on fiverr.
 
 thank you.

@@ -1,6 +1,6 @@
 {
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "assets/img/attachment",
+  "attachmentFolderPath": "assets/inbox",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
