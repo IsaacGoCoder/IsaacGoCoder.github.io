@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "84558a589c1f46db",
+        "id": "fcdabe7df263326f",
         "type": "tabs",
         "children": [
           {
-            "id": "e195d363dda5e69d",
+            "id": "615e1442fdbac89a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/1. 프로젝트/오토리습/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 398.5
   },
   "right": {
     "id": "a6d9182e90a21268",
@@ -92,18 +88,18 @@
         "dimension": 65.59241706161137,
         "children": [
           {
-            "id": "d1c5471a02528fb2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "804dac87093d1ca8",
             "type": "leaf",
             "state": {
               "type": "custom-frames-google-tasks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1c5471a02528fb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           },
@@ -170,8 +166,8 @@
                     "useWin32Conhost": true
                   },
                   "serial": {
-                    "columns": 25,
-                    "data": "/Users/gohyeoncheol/.zshrc:109: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± -\u001b[1D\u001b[1X\u001b[33;49m\u001b[0m git acp \"Post : 코딩 - \r\n오토리습 19,20 && 프로젝\u001b[7m \u001b[0m트\u001b[1C- 오토리습 - 특정블럭\u001b[7m \u001b[0m과\u001b[1C겹쳐있는 숫자를 엑셀",
+                    "columns": 29,
+                    "data": "/Users/gohyeoncheol/.zshrc:109: command not found: rbenv\r\n\u001b[40m gohyeoncheol@gohyeoncheol-ui-Macmini \u001b[30;48;5;39m ~/Documents/Blog_github \u001b[38;5;39;43m\u001b[30m  main ± \u001b[33;49m\u001b[0m ",
                     "rows": 17
                   }
                 }
@@ -183,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,56 +197,57 @@
   },
   "active": "41a69f71db56a9f7",
   "lastOpenFiles": [
-    "_posts/1. 프로젝트/오토리습/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성.md",
-    "_site/posts/특정-블럭과-겹쳐있는-숫자를-엑셀로-작성/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.html",
-    "_site/tags/classify/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.html",
-    "_site/tags/keyword/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.html",
-    "_site/posts/특정-블럭과-겹쳐있는-숫자를-엑셀로-작성/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.html",
-    "_site/tags/classify/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.html",
-    "_site/tags/keyword/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.html",
-    "_site/posts/특정-블럭과-겹쳐있는-숫자를-엑셀로-작성/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.html",
-    "_site/posts/특정-블럭과-겹쳐있는-숫자를-엑셀로-작성",
-    "_site/assets/inbox/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.gif",
-    "_site/tags/classify/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.html",
-    "_site/tags/classify",
-    "assets/inbox/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.gif",
+    "_site/tags/divide/index.html",
+    "_site/tags/multiple/index.html",
+    "_site/tags/minus/index.html",
+    "_site/tags/plus/index.html",
+    "_site/tags/arithmetic/index.html",
+    "_posts/2. 코딩/오토리습/2024-04-18-21. 산술연산(사칙연산) 함수들.md",
+    "_site/tags/divide/2024-04-18-21. 산술연산(사칙연산) 함수들-1.html",
+    "_site/tags/multiple/2024-04-18-21. 산술연산(사칙연산) 함수들-1.html",
+    "_site/tags/minus/2024-04-18-21. 산술연산(사칙연산) 함수들-1.html",
+    "_site/tags/plus/2024-04-18-21. 산술연산(사칙연산) 함수들-1.html",
+    "_site/tags/arithmetic/2024-04-18-21. 산술연산(사칙연산) 함수들-1.html",
+    "_site/tags/divide/2024-04-18-21. 산술연산(사칙연산) 함수들-1.html",
+    "_site/assets/inbox/2024-04-18-21. 산술연산(사칙연산) 함수들-1.gif",
+    "assets/inbox/2024-04-18-21. 산술연산(사칙연산) 함수들-1.gif",
     "_posts/2. 코딩/오토리습/2024-04-17-20. 조건에 따라 다른 기능 실행하기 5 - (cond).md",
+    "_posts/2. 코딩/오토리습/22. 함수 만들기 1 - (defun).md",
+    "_posts/2. 코딩/오토리습/0. 포스팅할거.md",
     "_posts/2. 코딩/오토리습/2024-04-17-19. 키워드 입력받기 - (getkword).md",
     "_posts/2. 코딩/오토리습/2024-04-16-18. 조건에 따라 다른 기능 실행하기 4 - (if) 중첩.md",
+    "_posts/2. 코딩/오토리습/2024-04-15-17. 조건에 따라 다른 기능 실행하기 3 - 조건함수 (or) (and) (not).md",
+    "_posts/2. 코딩/오토리습/2024-04-13-16. 사람이 읽을 주석(;) 달기.md",
+    "_posts/2. 코딩/오토리습/2024-04-12-15. 조건에 따라 다른 기능 실행하기 2 -  비교함수.md",
+    "_posts/2. 코딩/오토리습/2024-04-11-14. 조건에 따라 다른 기능 실행하기 1 - (if).md",
+    "_posts/2. 코딩/오토리습/2024-04-02-13. 각도 입력받기 - (getangle).md",
+    "_posts/2. 코딩/오토리습/2024-04-01-12. 거리 입력받기 - (getdist).md",
+    "_posts/2. 코딩/오토리습/2024-03-28-11. 숫자를 문자열로 변경하기 - (itoa), (rtos).md",
+    "_posts/2. 코딩/오토리습/2024-03-28-10. 문자열들을 하나의 문자열로 합치기 - (strcat).md",
+    "_posts/2. 코딩/오토리습/2024-03-28-9. 문자열 입력받기 - (getstring).md",
+    "_posts/2. 코딩/오토리습/2024-03-28-8.  숫자 입력받기 - (getint), (getreal).md",
+    "_posts/2. 코딩/오토리습/2024-03-28-7. 명령어창에 메시지 출력하기 - (princ).md",
+    "_posts/2. 코딩/오토리습/2024-03-28-6. 알림창 띄우기 - (alert).md",
+    "_posts/2. 코딩/오토리습/2024-03-28-5. 좌표 입력받기 2 - (getcorner).md",
+    "_posts/2. 코딩/오토리습/2024-03-27-4. 좌표 입력받기 - (getpoint).md",
+    "_posts/2. 코딩/오토리습/2024-03-27-3. 값을 변수에 저장하기 (setq).md",
+    "_posts/1. 프로젝트/오토리습/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성.md",
+    "_site/assets/inbox/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.gif",
+    "assets/inbox/2024-04-17-특정 블럭과 겹쳐있는 숫자를 엑셀로 작성-1.gif",
     "_site/assets/inbox/2024-04-17-19. 키워드 입력받기 - (getkword)-1.gif",
     "assets/inbox/2024-04-17-19. 키워드 입력받기 - (getkword)-1.gif",
     "_site/assets/inbox/2024-04-17-20. 조건에 따라 다른 기능 실행하기 5 - (cond)-1.gif",
     "assets/inbox/2024-04-17-20. 조건에 따라 다른 기능 실행하기 5 - (cond)-1.gif",
-    "_posts/2. 코딩/오토리습/0. 포스팅할거.md",
-    "_posts/2. 코딩/오토리습/2024-04-15-17. 조건에 따라 다른 기능 실행하기 3 - 조건함수 (or) (and) (not).md",
     "_site/assets/img/attachment/autolisp-if-nested.svg",
     "_site/assets/img/attachment/2024-04-16-18. 조건에 따라 다른 기능 실행하기 1 - (if) 중첩-1.gif",
-    "assets/img/attachment/autolisp-if-nested.svg",
-    "assets/img/attachment/autolisp-if-3 복사본.svg",
-    "_posts/2. 코딩/오토리습/2024-04-01-12. 거리 입력받기 - (getdist).md",
-    "_posts/2. 코딩/오토리습/2024-04-02-13. 각도 입력받기 - (getangle).md",
-    "_posts/2. 코딩/오토리습/2024-04-11-14. 조건에 따라 다른 기능 실행하기 1 - (if).md",
-    "_posts/2. 코딩/오토리습/2024-04-12-15. 조건에 따라 다른 기능 실행하기 2 -  비교함수.md",
-    "_posts/2. 코딩/오토리습/2024-04-13-16. 사람이 읽을 주석(;) 달기.md",
-    "_posts/2. 코딩/오토리습/2024-03-28-11. 숫자를 문자열로 변경하기 - (itoa), (rtos).md",
-    "_posts/2. 코딩/오토리습/2024-03-27-4. 좌표 입력받기 - (getpoint).md",
-    "_posts/2. 코딩/오토리습/2024-03-27-3. 값을 변수에 저장하기 (setq).md",
     "_posts/2. 코딩/오토리습/2024-03-27-2. 리습으로 캐드명령어 사용 해 보기 - (command).md",
     "_posts/2. 코딩/오토리습/2024-03-27-1. 오토리습(Autolisp) 시작하기.md",
     "_site/무제 파일.canvas",
     "_site/무제 파일 2.canvas",
     "_site/무제 파일 1.canvas",
     "_site/assets/template/excalidraw/Downloaded/Create DrawIO file.md",
-    "assets/template/자료보관소/자료보관소.md",
     "무제 파일 2.canvas",
-    "assets/excalidraw/autolisp-if.excalidraw.md",
-    "assets/template/excalidraw/Downloaded/Create DrawIO file.md",
-    "assets/excalidraw/무제 파일.md",
-    "assets/diagram/무제 파일.md",
-    "assets/무제 파일.md",
     "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "config/node_modules/yargs/node_modules/strip-ansi/readme.md",
-    "config/node_modules/yargs/node_modules/string-width/readme.md"
+    "무제 파일.canvas"
   ]
 }
